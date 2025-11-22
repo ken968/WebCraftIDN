@@ -4,7 +4,7 @@ WebCraftIDN adalah sebuah proyek website bisnis yang dikembangkan menggunakan **
 
 ## 📋 Fitur Utama
 - Halaman beranda dengan informasi bisnis dan hero section
-- Galeri produk/portofolio
+- Galeri produk portofolio
 - Halaman kontak/form (opsional, tanpa penyimpanan database)
 - Responsif untuk desktop dan mobile
 - Animasi sederhana menggunakan CSS/Tailwind
